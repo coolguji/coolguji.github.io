@@ -1,2 +1,2 @@
-# coolguji.github.io
+# guji.github.io
 Blog
